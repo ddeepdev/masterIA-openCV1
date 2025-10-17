@@ -167,6 +167,7 @@ Las imágenes se procesan usando:
 
 ## Autor
 
+Jagoraxr
 Proyecto creado como práctica de aprendizaje de OpenCV.
 
 ## Licencia
